@@ -1,0 +1,78 @@
+body{
+	background-color: white;
+}
+
+.text{
+	font-family: Garamond,"Baskerville Old Face","Hoefler Text","Times New Roman",serif;
+	font-size: 18pt;
+	color: maroon;
+	margin-top: 80px;
+	margin-right: 50px;
+	margin-left: 50px;
+
+}
+
+.firstmil{
+	font-family: impact;
+	font-size: 100pt;
+	position: relative;
+	text-align: left;
+	float:left;
+	margin-left: 50px;
+	margin-top: 80px;
+	color: #b49d73;
+
+}
+
+.itsonnow{
+	font-family: helvetica;
+	font-size: 90pt;
+	position: absolute;
+	text-align: right;
+	color: maroon;
+	float: right;
+	margin-bottom: 200px;
+	margin-left: 400px;
+	margin-top: 50px;
+}
+
+.secondmil{
+	font-family: impact;
+	font-size: 80pt;
+	position: relative;
+	text-align: left;
+	float:left;
+	margin-left: 100px;
+	margin-top: 80px;
+	color: maroon;
+
+}
+
+.moneyonthefloornow{
+	font-family: helvetica;
+	font-size: 80pt;
+	position: absolute;
+	text-align: right;
+	color: maroon;
+	float: right;
+	margin-bottom: 200px;
+	margin-left: 350px;
+	margin-top: 50px;
+
+}
+
+
+
+a:link {
+ 	color: #b49d73; 
+ 	background-color:transparent; 
+ 	text-decoration:none
+ }
+ 
+a:visited {color:#b49d73; background-color:transparent; text-decoration:none}
+
+a:hover   {color:maroon ; 
+	background-color:transparent;
+	font-size: 100pt;
+
+}

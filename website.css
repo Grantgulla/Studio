@@ -1,0 +1,81 @@
+body{
+	background-color: darkred;
+}
+
+
+.lyrics {
+	font-family:Helvetica;
+	color: white;
+	font-size: 100px;
+	font-style: bold;
+	padding-bottom: 5px;
+	text-align: inline block;
+}
+
+.firstmil{
+	font-family:Helvetica;
+	color: #white;
+	font-size: 100px;
+	font-style: bold;
+	padding-bottom: 5px;
+	text-align: inline block;
+}
+
+.itsonnow{
+	font-family:Helvetica;
+	color: white;
+	font-size: 100px;
+	font-style: bold;
+	padding-bottom: 5px;
+}
+
+.moneyonthefloornow{
+	font-family:Helvetica;
+	color: #b49d73;
+	font-size: 100px;
+	font-style: bold;
+	padding-bottom: 5px;
+
+}
+
+.ineedmorenow{
+	font-family:Helvetica;
+	color: #b49d73;
+	font-size: 100px;
+	font-style: bold;
+	padding-bottom: 5px;
+
+}
+
+.hitthebooth{
+	font-family:Helvetica;
+	color: #b49d73;
+	font-size: 100px;
+	font-style: bold;
+	padding-bottom: 5px;
+}
+
+.pairofpumas{
+	font-family:Helvetica;
+	color: #b49d73;
+	font-size: 100px;
+	font-style: bold;
+	padding-bottom: 5px;
+
+}
+
+ a:link {
+ 	color: white; 
+ 	background-color:transparent; 
+ 	text-decoration:none
+ }
+ 
+a:visited {color: white; background-color:transparent; text-decoration:none}
+
+a:hover   {color: #b49d73 ; 
+	background-color:transparent;
+	font-size: 100px;
+
+}
+
+
