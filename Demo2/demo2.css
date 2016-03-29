@@ -1,0 +1,77 @@
+.circle1{
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+	background-color: blue;
+	margin: 5px;
+	position: fixed;
+	top: 100px;
+	
+}
+
+.circle2{
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+	background-color: blue;
+	margin: 5px;
+	position: fixed;
+	top: 150px;
+	left: 390px;
+	
+}
+
+.circle3{
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+	background-color: blue;
+	margin: 5px;
+	position: fixed;
+	top: 80px;
+	left: 570px;
+	
+}
+
+.circle4{
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+	background-color: blue;
+	margin: 5px;
+	position: fixed;
+	top: 300;
+	left: 150px;	
+}
+
+.square1 {
+	height: 200px;
+	width: 200px;
+	background-color: brown;
+	position: fixed;
+}
+
+.square2 {
+	height: 200px;
+	width: 200px;
+	background-color: brown;
+	position: fixed;
+	left: 250px;
+
+}
+
+.square3 {
+	height: 200px;
+	width: 200px;
+	background-color: brown;
+	position: fixed;
+	left:500px;
+}
+
+.square4 {
+	height: 200px;
+	width: 200px;
+	background-color: brown;
+	position: fixed;
+	top: 250px;
+}

@@ -1,0 +1,159 @@
+.ww{
+    font-family: helvetica;
+    text-align: left;
+    font-size: 90pt;
+    margin-left: 50px;
+    width: 800px;
+    height: 100px;
+    position: relative;
+    margin-bottom: 40px;
+}
+
+
+
+.container{
+    width: 500px;
+    height: 400px;
+    margin-bottom: 200px;
+    position: fixed;
+    font-family: helvetica;
+    font-size: 38pt;
+     -webkit-transform: rotate(-90deg); 
+
+}
+
+.container2 {
+    margin-left: 150px;
+    width: 650px;
+    height: 130px;
+    position: fixed;
+    font-family: helvetica;
+    font-size: 22pt;
+    color: white;
+    background-color: black;
+    padding: 20px;
+
+}
+
+.container3 {
+    margin-left: 150px;
+    margin-top: 220px;
+    width: 650px;
+    height: 130px;
+    position: fixed;
+    font-family: helvetica;
+    font-size: 22pt;
+    color: black;
+    background-color: black;
+    padding: 20px;
+
+}
+
+.container4{
+    margin-left: 150px;
+    margin-top: 160px;
+    width: 650px;
+    height: 30px;
+    position: fixed;
+    font-family: helvetica;
+    font-size: 22pt;
+    color: black;
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 10px;
+
+}
+
+.container5{
+    margin-left: 150px;
+    margin-top: 30px;
+    width: 650px;
+    height: 20px;
+    position: relative;
+    font-family: helvetica;
+    font-size: 22pt;
+    color: black;
+    background-color: white;
+    padding: 20px;
+
+}
+
+.location{
+    font-family: helvetica;
+    color: white;
+    font-size: 120px;
+
+}
+
+
+.scroll{
+    font-family: helvetica;
+    color: black;
+    font-size: 25px;
+    padding-bottom: 10px;
+
+
+}
+
+
+.line{
+    width: 1px;
+    height: 450px;
+    background-color: black;
+    position: fixed;
+    margin-left: 900px;
+
+}
+
+.ork{
+    font-family: helvetica;
+    text-align: left;
+    font-size: 90pt;
+    margin-left: 180px;
+    width: 800px;
+    height: 100px;
+    position: absolute;
+
+}
+
+.ear{
+    font-family: helvetica;
+    font-size: 90pt;
+    margin-left: 480px;
+    position: absolute;
+
+}
+
+.info{
+    margin-left: 950px;
+    float: right;
+    width: 200px;
+    height: 400px;
+    position: fixed;
+    font-family: helvetica;
+    font-size: 22pt;
+    color: white;
+    background-color: black;
+    padding: 20px;
+}
+
+.info:hover{
+    color:black;
+    background-color: white;
+}
+
+.info2{
+    margin-left: 950px;
+    float: right;
+    width: 200px;
+    height: 400px;
+    position: fixed;
+    font-family: helvetica;
+    font-size: 22pt;
+    color: white;
+    background-color: black;
+    padding: 20px;
+}
+
+   
+
