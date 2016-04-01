@@ -4,23 +4,24 @@ body{
 	cursor: pointer;
 
 }
-.grow{
+.ww{
 	font-family: helvetica;
 	font-size: 200px;
 	position: absolute;
 	margin-top: 40px;
 	color: salmon;
-
 }
 
-.grow:hover{
+.ww:hover{
 	font-family: helvetica;
 	font-size: 200px;
 	position: absolute;
 	margin-top: 40px;
-	color: black;
+	color: salmon;
+	text-decoration: underline;
 
 }
+
 
 .byline{
 	font-family: helvetica;
@@ -38,6 +39,24 @@ body{
 }
 
 .scrollsmb{
+    font-family: helvetica;
+    color: black;
+    font-size: 28px;
+    margin-bottom: 5px;
+
+}
+
+.scroll{
+    font-family: helvetica;
+    color: white;
+    font-size: 28px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    margin right: 20px;
+
+}
+
+.scroll:hover{
     font-family: helvetica;
     color: black;
     font-size: 28px;
@@ -88,54 +107,102 @@ body{
 }
 
 .containerdate{
-	background-color: black;
-	width:600px;
+	background-color: white;
 	height: 35px;
-	margin-left:625px;
-	margin-top: 20px;
+	margin-left:650px;
+	margin-top: 40px;
 }
 
 .containertime{
-	background-color: black;
-	width:1225px;
+	background-color: white;
 	height: 35px;
-	margin-top: 200px;
+	margin-top: 60px;
+	margin-left: 650px;
+
+}
+
+.containerplace{
+	background-color: white;
+	height: 35px;
+	margin-top: 150px;
+	margin-left: 650px;
+
+}
+
+.letterspacing1{
+	font-family: helvetica;
+    color: black;
+    font-size: 28px;
+    margin-bottom: 5px;
+    letter-spacing: 30px;
+}
+
+.letterspacing1:hover{
+	font-family: helvetica;
+    color: salmon;
+    font-size: 28px;
+    margin-bottom: 5px;
+    letter-spacing: 4px;
 }
 
 .containerlocation{
-	margin-top: 50px;
+	margin-top: 40px;
 	width: 700px;
 	position: absolute;
+	margin-left: 
 }
 
+.containerinfo{
+	width:600px;
+	height: 350px;
+	background-color: salmon;
+	margin-top: 230px;
+	position: absolute;
+
+}
+
+.containerinfo:hover{
+	width:600px;
+	height: 200px;
+	background-color: white;
+	margin-top: 230px;
+	position: absolute;
+	font-color: white;
+
+
+}
 
 .containerinfo1{
 	background-color: white;
 	height: 70px;
-	width: 1225px;
-	margin-top: 70px;
+	width: 600px;
+	margin-left: 625px;
+	margin-top: 190px;
 	position: relative;
 }
 
 .containerinfo1:hover{
 	background-color: salmon;
-	height: 170px;
-	width: 1225px;
-	margin-top: 70px;
+	height: 200px;
+	width: 600px;
+	margin-left: 625px;
+	margin-top: 190px;
 	position: relative;
 }
 
 .containerinfo2{
 	background-color: white;
 	height: 70px;
-	width: 1225px;
+	width: 600px;
+	margin-left: 625px;
 	position: relative;
 }
 
 .containerinfo2:hover{
 	background-color: white;
-	height: 170px;
-	width: 1225px;
+	height: 200px;
+	width: 600px;
+	margin-left: 625px;
 	position: relative;
 }
 
@@ -143,14 +210,16 @@ body{
 .containerinfo3{
 	background-color: white;
 	height: 70px;
-	width: 1225px;
+	width: 600px;
+	margin-left: 625px;
 	position: relative;
 }
 
 .containerinfo3:hover{
 	background-color: salmon;
-	height: 170px;
-	width: 1225px;
+	height: 200px;
+	width: 600px;
+	margin-left: 625px;
 	position: relative;
 }
 
@@ -158,14 +227,16 @@ body{
 .containerinfo4{
 	background-color: white;
 	height: 70px;
-	width: 1225px;
+	width: 600px;
+	margin-left: 625px;
 	position: relative;
 }
 
 .containerinfo4:hover{
 	background-color: white;
-	height: 170px;
-	width: 1225px;
+	height: 200px;
+	width: 600px;
+	margin-left: 625px;
 	position: relative;
 }
 
@@ -173,15 +244,17 @@ body{
 .containerinfo5{
 	background-color: white;
 	height: 100px;
-	width: 1225px;
+	width: 600px;
+	margin-left: 625px;
 	position: relative;
 
 }
 
 .containerinfo5:hover{
 	background-color: salmon;
-	height: 180px;
-	width: 1225px;
+	height: 200px;
+	width: 600px;
+	margin-left: 625px;
 	position: relative;
 
 }
@@ -189,7 +262,8 @@ body{
 .containerinfo6{
 	background-color: white;
 	height: 220px;
-	width: 1225px;
+	width: 600px;
+	margin-left: 625px;
 	position: relative;
 	padding-left: 100px;
 	padding-top: 
@@ -201,7 +275,9 @@ body{
     color: black;
     background-color: white;
     font-size: 70px;
-    margin-left:
+    letter-spacing: 60px;
+    margin-top: 200px;
+
 }
 
 .designers:hover{
@@ -216,7 +292,7 @@ body{
 	font-family: helvetica;
     color: black;
     font-size: 150px;
-    letter-spacing: -30px;
+    letter-spacing: 90px;
 } 
 
 
@@ -224,63 +300,63 @@ body{
 	font-family: helvetica;
     color: black;
     font-size: 150px;
-    letter-spacing: -30px;
+    letter-spacing: 90px;
 }
 
 .mella{
 	font-family: helvetica;
     color: black;
     font-size: 150px;
-    letter-spacing: -30px;
+    letter-spacing: 90px;
 }
 
 .guda{
 	font-family: helvetica;
     color: black;
     font-size: 150px;
-    letter-spacing: -30px;
+    letter-spacing: 90px;
 }
 
 .tosh{
 	font-family: helvetica;
     color: black;
     font-size: 150px;
-    letter-spacing: -30px;
+    letter-spacing: 90px;
 }
 
 .issey{
 	font-family: helvetica;
     color: black;
     font-size: 150px;
-    letter-spacing: -30px;
+    letter-spacing: 90px;
 }
 
 .angela{
 	font-family: helvetica;
     color: black;
     font-size: 150px;
-    letter-spacing: -30px;
+    letter-spacing: 90px;
 }
 
 .faye{
 	font-family: helvetica;
     color: black;
     font-size: 150px;
-    letter-spacing: -30px;
+    letter-spacing: 90px;
 }
 
 .viv{
 	font-family: helvetica;
     color: black;
     font-size: 150px;
-    letter-spacing: -30px;
+    letter-spacing: 90px;
 }
 
 .erwin{
 	font-family: helvetica;
     color: black;
     font-size: 150px;
-    letter-spacing: -30px;
+    letter-spacing: 90px;
 }
 
 .closing{
