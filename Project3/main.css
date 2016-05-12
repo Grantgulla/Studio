@@ -1,0 +1,338 @@
+
+
+html {
+  height: 100%;
+  background: radial-gradient(ellipse at bottom, #1a1a25 0%, #090a0f 100%);
+  overflow: hidden;
+}
+
+.stars{
+	position: absolute;
+}
+
+.description{
+	font-family: "Share Tech Mono";
+	font-size: 14px;
+	padding-left: 20px;
+	padding-top: 20px;
+	color: white;
+	margin-left:2%;
+	margin-top: 2%;
+	position: fixed;
+}
+
+.titlepage{
+	font-family: "Share Tech Mono";
+	font-size: 40px;
+	margin-left: 3%;
+	margin-top: 3%;
+	color: white;
+	position: fixed;
+}
+
+.circle1 {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 35px;
+  height: 35px;
+  border: none;
+  font: normal 100%/normal Arial, Helvetica, sans-serif;
+  color: rgba(0,0,0,1);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: white;
+  margin-left: 70%;
+}
+
+.circle2 {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 25px;
+  height: 25px;
+  border: none;
+  font: normal 100%/normal Arial, Helvetica, sans-serif;
+  color: rgba(0,0,0,1);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: white;
+  margin-left: 30%;
+}
+
+.circle3 {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 25px;
+  height: 25px;
+  border: none;
+  font: normal 100%/normal Arial, Helvetica, sans-serif;
+  color: rgba(0,0,0,1);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: white;
+  margin-left: 40%;
+}
+
+.circle4{
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 50px;
+  height: 50px;
+  border: none;
+  font: normal 100%/normal Arial, Helvetica, sans-serif;
+  color: rgba(0,0,0,1);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: white;
+  margin-left: 95%;
+}
+
+.circle5 {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 30px;
+  height: 30px;
+  border: none;
+  font: normal 100%/normal Arial, Helvetica, sans-serif;
+  color: rgba(0,0,0,1);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: white;
+  margin-left: 33%
+
+}
+
+.circle6 {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 35px;
+  height: 35px;
+  border: none;
+  font: normal 100%/normal Arial, Helvetica, sans-serif;
+  color: rgba(0,0,0,1);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: white;
+  margin: 40px;
+  margin-left: 65%;
+}
+
+.circle7 {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 35px;
+  height: 35px;
+  border: none;
+  font: normal 100%/normal Arial, Helvetica, sans-serif;
+  color: rgba(0,0,0,1);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: white;
+  margin-left: 20%;
+}
+
+.circle8 {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 70px;
+  height: 70px;
+  border: none;
+  font: normal 100%/normal Arial, Helvetica, sans-serif;
+  color: rgba(0,0,0,1);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: white;
+  margin-left:35%;
+  margin-top: 5%;
+
+
+}
+
+.circle9 {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 25px;
+  height: 25px;
+  border: none;
+  font: normal 100%/normal Arial, Helvetica, sans-serif;
+  color: rgba(0,0,0,1);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: white;
+  margin-left: 80%;
+
+
+}
+
+.circle10 {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 120px;
+  height: 120px;
+  border: none;
+  font: normal 100%/normal Arial, Helvetica, sans-serif;
+  color: rgba(0,0,0,1);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: white;
+  margin-left: -10%
+  margin-top: 20%;
+
+
+}
+
+.circle11 {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 25px;
+  height: 25px;
+  border: none;
+  font: normal 100%/normal Arial, Helvetica, sans-serif;
+  color: rgba(0,0,0,1);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: white;
+  margin-left:40%;
+
+
+}
+
+.circle12 {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 25px;
+  height: 25px;
+  border: none;
+  font: normal 100%/normal Arial, Helvetica, sans-serif;
+  color: rgba(0,0,0,1);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: white;
+  margin: 40px;
+  margin-left:70%;
+
+
+}
+
+/*Hover*/
+
+.circle1:hover {
+  -webkit-animation-name: pulse;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  background-color: grey;
+}
+
+.circle2:hover {
+  -webkit-animation-name: pulse;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  background-color: grey;
+}
+
+.circle3:hover {
+  -webkit-animation-name: pulse;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  background-color: grey;
+}
+
+.circle4:hover {
+  -webkit-animation-name: pulse;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  background-color: grey;
+}
+
+.circle5:hover {
+   -webkit-animation-name: pulse;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  background-color: grey;
+}
+
+
+.circle6:hover {
+  -webkit-animation-name: pulse;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  background-color: grey;
+}
+
+
+.circle7:hover {
+   -webkit-animation-name: pulse;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  background-color: grey;
+}
+
+.circle8:hover {
+    -webkit-animation-name: pulse;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  background-color: grey;
+}
+
+.circle9:hover {
+  -webkit-animation-name: pulse;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  background-color: grey;
+}
+
+.circle10:hover {
+  -webkit-animation-name: pulse;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  background-color: grey;
+}
+
+.circle11:hover {
+	background-color: grey;
+   -webkit-animation-name: pulse;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+}
+
+.circle12:hover {
+  background-color: grey;
+   -webkit-animation-name: pulse;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+}
+
+
+@-webkit-keyframes pulse {
+  from {
+
+  	transform: scale3d(1, 1, 1);}
+
+  50% {
+    transform: scale3d(1.25, 1.25, 1.25);}
+
+  to {
+    transform: scale3d(1, 1, 1);}
+}
+
+.pulse {
+  animation-name: pulse;
+}
+
+
+
+
+
+
+
